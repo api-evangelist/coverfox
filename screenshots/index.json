@@ -1,0 +1,11 @@
+[
+  {
+    "repo": "coverfox",
+    "captured_at": "2026-10-11T184345",
+    "source_url": "https://www.coverfox.com",
+    "source_type": "Website",
+    "file": "coverfox-2026-10-11T184345.png",
+    "bytes": 271680,
+    "capture": "playwright-local"
+  }
+]
